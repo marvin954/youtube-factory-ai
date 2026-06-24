@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "app/api/agents/script/route.ts": { "maxDuration": 60 },
+    "app/api/agents/viewmax/route.ts": { "maxDuration": 60 },
+    "app/api/agents/research/route.ts": { "maxDuration": 60 },
+    "app/api/agents/scoring/route.ts": { "maxDuration": 60 },
+    "app/api/agents/thumbnail/route.ts": { "maxDuration": 60 },
+    "app/api/agents/seo/route.ts": { "maxDuration": 60 },
+    "app/api/agents/qa/route.ts": { "maxDuration": 60 },
+    "app/api/orchestrate/route.ts": { "maxDuration": 30 }
+  }
+}
